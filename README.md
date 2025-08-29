@@ -1,10 +1,5 @@
 <h1 align="center">Hey 👋 I'm Yash Sawarkar</h1>
 
-
-
-
-<br>
-
 <div align="center">
   <h3>----------------------------- Used to with -------------------------------- </h3>
   <br>
