@@ -1,7 +1,7 @@
-<h1 align="center">Hey 👋 I'm Yash Sawarkar</h1>
+<h1 align="center">Hey 👋 I'm Yash</h1>
 
 <div align="center">
-  <h3>----------------------------- Used to with -------------------------------- </h3>
+
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
