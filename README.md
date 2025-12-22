@@ -8,7 +8,6 @@ BTech graduate passionate about building scalable real-world projects.
 
 <h2>🧑‍💻 About Me</h2>
 <div align="start">
-🎓 B.Tech 2025 Passout from Ramdeobaba College OF Engineering and Msnagement, Nagpur  <br>
 🔧Skilled in ReactJS, JavaScript, NextJS, Motion, Frappe Framemwork.  
 </div>
 
